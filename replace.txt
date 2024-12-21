@@ -1,0 +1,2 @@
+grep -rl "fstvlkuponundiankamu" . | xargs sed -i "s/fstvlkuponundiankamu/new-name/g"
+grep -rl "fstvlkuponundiankamu" . | xargs sed -i "s/fstvlkuponundiankamu/New Name/g"
